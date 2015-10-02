@@ -1,5 +1,8 @@
 # Change Log
 
+## [v20.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v20.0.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v19.0.0...v20.0.0)
+
 ## [v19.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v19.0.0) (2015-10-02)
 [Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v18.1.0...v19.0.0)
 
