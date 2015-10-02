@@ -1,5 +1,17 @@
 # Change Log
 
+## [v11.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v11.0.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v10.0.0...v11.0.0)
+
+## [v10.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v10.0.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v9.0.0...v10.0.0)
+
+## [v9.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v9.0.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v8.1.0...v9.0.0)
+
+## [v8.1.0](https://github.com/dlanileonardo/test-bumpversion/tree/v8.1.0) (2015-10-01)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v8.0.0...v8.1.0)
+
 ## [v8.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v8.0.0) (2015-10-01)
 [Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v7.0.0...v8.0.0)
 
