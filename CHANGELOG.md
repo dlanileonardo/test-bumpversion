@@ -1,7 +1,10 @@
 # Change Log
 
-## [14.1.0](https://github.com/dlanileonardo/test-bumpversion/tree/14.1.0) (2015-10-02)
-[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v13.0.0...14.1.0)
+## [v14.1.0](https://github.com/dlanileonardo/test-bumpversion/tree/v14.1.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v14.0.0...v14.1.0)
+
+## [v14.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v14.0.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v13.0.0...v14.0.0)
 
 **Merged pull requests:**
 
