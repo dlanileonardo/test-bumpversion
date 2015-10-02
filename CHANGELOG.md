@@ -1,5 +1,8 @@
 # Change Log
 
+## [v14.2.0](https://github.com/dlanileonardo/test-bumpversion/tree/v14.2.0) (2015-10-02)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v14.1.0...v14.2.0)
+
 ## [v14.1.0](https://github.com/dlanileonardo/test-bumpversion/tree/v14.1.0) (2015-10-02)
 [Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v14.0.0...v14.1.0)
 
