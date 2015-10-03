@@ -1,5 +1,8 @@
 # Change Log
 
+## [v33.0.1](https://github.com/dlanileonardo/test-bumpversion/tree/v33.0.1) (2015-10-03)
+[Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v33.0.0...v33.0.1)
+
 ## [v33.0.0](https://github.com/dlanileonardo/test-bumpversion/tree/v33.0.0) (2015-10-03)
 [Full Changelog](https://github.com/dlanileonardo/test-bumpversion/compare/v32.0.0...v33.0.0)
 
